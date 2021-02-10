@@ -30,7 +30,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
     <img src="https://img.shields.io/badge/Eman134%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kaykeeman/" target="_blank">
-    <img src="https://img.shields.io/badge/Eman134%20-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/Eman134%20-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
