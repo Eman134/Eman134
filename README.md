@@ -23,12 +23,29 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 
 <br>
 
+### 📱 Contact Me:
+
+<p align="center">
+  <a href="https://twitter.com/AzarielDev" target="_blank">
+    <img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a> 
+  <a href="https://discord.me/cozythighs" target="_blank">
+    <img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+<p align="center"><a href="https://twitch.tv/sinonaim" target="_blank">
+  <img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/eman134/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/eman134/github-stats-transparent/output/generated/languages.svg)
  </a>
  
  Thx [rahul-jha98](https://github.com/rahul-jha98)
