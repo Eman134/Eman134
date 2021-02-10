@@ -17,7 +17,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 
 <br>
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
