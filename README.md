@@ -18,8 +18,8 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 <br>
 
 ### Languages and Tools:
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
+<img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
 <br>
 
@@ -30,7 +30,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
     <img src="https://img.shields.io/badge/Eman134%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kaykeeman/" target="_blank">
-    <img src="https://img.shields.io/badge/Eman134%20-%231572B6.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
