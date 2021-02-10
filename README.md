@@ -57,6 +57,9 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
   <a href="https://github.com/Eman134/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.twitch.tv/eman134_" target="_blank">
+    <img alt="Twitch" src="https://img.shields.io/badge/Eman134_%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
+  </a>
 </p>
 
 <br>
