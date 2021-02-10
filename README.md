@@ -33,7 +33,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ### 💻 Setup:
 
 <p align="center">
-  [Mouse](https://www.adamantiun.com.br/mouse-shinigami-adx-400) - 500-4000 DPI
+  <a href="https://www.adamantiun.com.br/mouse-shinigami-adx-400" target="_blank">Mouse - 500-4000 DPI</a>
 </p>
 
 <br>
