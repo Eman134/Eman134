@@ -61,5 +61,4 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ![Most Used Languages](https://raw.githubusercontent.com/eman134/github-stats-transparent/output/generated/languages.svg)
  </a>
  
- Thx [rahul-jha98](https://github.com/rahul-jha98) & [PrincessAkira](https://github.com/PrincessAkira).
- [badges](https://github.com/Ileriayo/markdown-badges)
+ Thx [rahul-jha98](https://github.com/rahul-jha98), [PrincessAkira](https://github.com/PrincessAkira) & [Ileriayo](https://github.com/Ileriayo/markdown-badges).
