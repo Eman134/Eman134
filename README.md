@@ -17,7 +17,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 
 <br>
 
-### 💻 Languages and Tools:
+### 📡 Languages and Tools:
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -26,6 +26,14 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+</p>
+
+<br>
+
+### 💻 Setup:
+
+<p align="center">
+  [Mouse](https://www.adamantiun.com.br/mouse-shinigami-adx-400) - 500-4000 DPI
 </p>
 
 <br>
