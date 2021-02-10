@@ -18,10 +18,14 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 <br>
 
 ### Languages and Tools:
-<img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
+<p align="center">
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</p>
 
 <br>
+
 
 ### 📱 Contact Me:
 
