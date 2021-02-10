@@ -5,7 +5,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 <br/>
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" src="https://github.com/Eman134/Eman134/blob/main/assets/JsImg.svg" width="360px"/>
   
 ### 🧐 More About Me:
 
