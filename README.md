@@ -61,7 +61,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ![Most Used Languages](https://raw.githubusercontent.com/eman134/github-stats-transparent/output/generated/languages.svg)
  </a>
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEman134%2F&count_bg=%235A219A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEman134%2F&count_bg=%235A219A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
  
  Thx [rahul-jha98](https://github.com/rahul-jha98), [PrincessAkira](https://github.com/PrincessAkira) & [Ileriayo](https://github.com/Ileriayo/markdown-badges).
  
