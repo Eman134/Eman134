@@ -30,7 +30,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
     <img src="https://img.shields.io/badge/Eman134%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kaykeeman/" target="_blank">
-    <img src="https://img.shields.io/badge/Eman134%20-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eman134%20-%231572B6.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -44,4 +44,4 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ![Most Used Languages](https://raw.githubusercontent.com/eman134/github-stats-transparent/output/generated/languages.svg)
  </a>
  
- Thx [rahul-jha98](https://github.com/rahul-jha98)
+ Thx [rahul-jha98](https://github.com/rahul-jha98) & [PrincessAkira](https://github.com/PrincessAkira)
