@@ -33,7 +33,8 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ### 💻 Setup:
 
 <p align="center">
-  <a href="https://www.adamantiun.com.br/mouse-shinigami-adx-400" target="_blank">Mouse - 500-4000 DPI</a>
+  <a href="https://www.adamantiun.com.br/mouse-shinigami-adx-400" target="_blank">Mouse Shinigami- 500-4000 DPI</a>
+  <a href="https://novaknup.com.br/produtos/headset-gamer-pro-kp-400/" target="_blank">Headset KP-400</a>
 </p>
 
 <br>
