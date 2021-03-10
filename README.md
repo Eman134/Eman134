@@ -33,9 +33,11 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ### 💻 Setup:
 
 <p align="center">
-  <a href="https://www.adamantiun.com.br/mouse-shinigami-adx-400" target="_blank">Mouse Shinigami- 500-4000 DPI</a>
+  Visit my steam to view
   <br>
-  <a href="https://novaknup.com.br/produtos/headset-gamer-pro-kp-400/" target="_blank">Headset KP-400</a>
+  <a href="https://steamcommunity.com/id/eman134" target="_blank">
+    <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
 </p>
 
 <br>
