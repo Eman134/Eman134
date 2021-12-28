@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Eman134!
 
-Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently learning Javascript.
+Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently learning Kotlin.
 
 <br/>
 <br/>
@@ -10,7 +10,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on js projects
-- 🌱 &nbsp; I’m currently learning Javascript; 
+- 🌱 &nbsp; I’m currently learning Kotlin; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Eman134?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) 👉
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kaykeeman/)
