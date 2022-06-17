@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Eman134!
 
-Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently learning Kotlin.
+Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently improving my knowledge in js.
 
 <br/>
 <br/>
