@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Eman134!
 
-Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently improving my knowledge in js.
+Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently learning Golang.
 
 <br/>
 <br/>
@@ -10,7 +10,7 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on js projects
-- 🌱 &nbsp; I'am currently improving my knowledge in js; 
+- 🌱 &nbsp; I'am currently learning Golang; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Eman134?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) 👉
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kaykeeman/)
@@ -20,12 +20,10 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
 ### 📡 Languages and Tools:
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
 </p>
 
 <br>
