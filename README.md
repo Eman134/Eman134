@@ -2,7 +2,7 @@
 
 Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently learning Golang.
 
-<br/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/422002630106152970)](https://discord.com/users/422002630106152970)
 <br/>
 
 <img align="right" src="https://github.com/Eman134/Eman134/blob/main/assets/JsImg.svg" width="360px"/>
