@@ -9,8 +9,8 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on C# projects
-- 🌱 &nbsp; I'am currently learning C#; 
+- 🔭 &nbsp; I’m currently working on React Native projects
+- 🌱 &nbsp; I'am currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Eman134?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) 👉
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kaykeeman/)
