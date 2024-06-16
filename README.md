@@ -52,14 +52,8 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
   <a href="https://www.twitch.tv/eman134_" target="_blank">
     <img alt="Twitch" src="https://img.shields.io/badge/Eman134_%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kaykeeman/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://steamcommunity.com/id/eman134" target="_blank">
     <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
-  <a href="mailto:kaykeeman@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Eman134/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
