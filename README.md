@@ -9,8 +9,8 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on Android projects
-- 🌱 &nbsp; I'am currently learning Kotlin; 
+- 🔭 &nbsp; I’m currently working on CSS/HTML/JS Projects.
+- 🌱 &nbsp; I'am currently learning C; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Eman134?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) 👉
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kaykeeman/)
@@ -57,6 +57,9 @@ Hello, my nickname is Eman134 and I am a beginner developer. I plan to gain know
   </a>
   <a href="https://github.com/Eman134/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaykeeman/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
