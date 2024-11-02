@@ -1,4 +1,4 @@
-## Hey 👋, I'm Eman134!
+## Hey 👋, I'm Kayke!
 
 Hi, my name is Kayke Emanoel, mechanical technician graduated from CEFET-MG, currently working in Structural Projects area, where i am developing my skills in AutoCad, Excel, Word and others. My work in structural projects has provided me with a solid foundation in technical design and project management. I have also spent some time studying technologies and programming languages, and i am currently studying Software Engineering at PUC. I have experience with Node.js backend, using JavaScript, TypeScript, as well as Golang and Java. Additionally, I have basic skills in frontend development.
 
