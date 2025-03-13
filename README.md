@@ -10,7 +10,7 @@ Hi, my name is Kayke Emanoel, mechanical technician graduated from CEFET-MG, cur
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently pursuing a Software Engineering degree and working on CSS/HTML/JS Projects.
+- 🔭 &nbsp; I’m currently pursuing a Software Engineering degree and working on CSS/HTML/JS and Java Projects.
 - 🌱 &nbsp; I’m currently learning various subjects in the Technology field, such as Basic Computing, Linux Commands, GitHub, C language, modular and object-oriented programming (OOP), software architecture and fundamentals, processes, and more.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Eman134?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) 👉
@@ -21,6 +21,7 @@ Hi, my name is Kayke Emanoel, mechanical technician graduated from CEFET-MG, cur
 ### 📡 Languages and Tools:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
