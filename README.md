@@ -1,6 +1,10 @@
 ## Hey 👋, I'm Kayke!
 
-Hi, my name is Kayke Emanoel, mechanical technician graduated from CEFET-MG, currently working in Structural Projects area, where i am developing my skills in AutoCad, Excel, Word and others. My work in structural projects has provided me with a solid foundation in technical design and project management. I have also spent some time studying technologies and programming languages, and i am currently studying Software Engineering at PUC. I have experience with Node.js backend, using JavaScript, TypeScript, as well as Golang and Java. Additionally, I have basic skills in frontend development.
+My name is Kayke Emanoel. I am a mechanical technician graduated from CEFET-MG and currently pursuing a degree in Software Engineering at PUC. Since 2018, I have been developing programming skills with a strong interest in various technologies. Over this time, I have completed academic and personal projects that have strengthened my expertise in backend development and software architecture.
+
+I began my professional career in structural project design, which provided me with a solid foundation in technical reasoning, organization, and attention to detail—especially using tools like AutoCAD, Excel, and Word. Although I still work in mechanical engineering, I am in the process of transitioning to the technology field.
+
+Currently, I am deepening my technical knowledge through my Software Engineering studies and seeking to move into the IT job market, aiming to contribute innovative and impactful solutions. I focus on languages such as JavaScript, TypeScript, Java, and Golang, as well as databases like PostgreSQL and tools like Docker. I have a strong interest in building modular systems, clean code, and software engineering best practices, and I am committed to continuous growth and meaningful contributions to projects and teams in the technology sector.
 
 <a href="https://www.linkedin.com/in/kaykeeman/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
