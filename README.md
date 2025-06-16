@@ -10,7 +10,7 @@ Hi, my name is Kayke Emanoel, mechanical technician graduated from CEFET-MG, cur
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently pursuing a Software Engineering degree and working on CSS/HTML/JS and Java Projects.
+- 🔭 &nbsp; I’m currently pursuing a Software Engineering degree and working on CSS/HTML/JS, Java, Golang, Spring Boot, React, and Docker projects.
 - 🌱 &nbsp; I’m currently learning various subjects in the Technology field, such as Basic Computing, Linux Commands, GitHub, C language, modular and object-oriented programming (OOP), software architecture and fundamentals, processes, and more.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Eman134?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) 👉
