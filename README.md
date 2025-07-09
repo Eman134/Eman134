@@ -1,7 +1,7 @@
 ## Hey, I'm Kayke Emanoel 👋
 
-🎯 Software Engineering student @PUC-MG | Mechanical Technician @CEFET-MG  
-🚀 Migrando de Engenharia Mecânica para TI com foco em desenvolvimento backend, APIs REST, e boas práticas de arquitetura.
+🎯 Software Engineering student @PUC-MG | Mechanical Technician (CEFET-MG)  
+🚀 Atuo profissionalmente na área de projetos mecânicos, mas estou em transição para o setor de tecnologia, com foco em backend, APIs REST e boas práticas de arquitetura de software.
 
 ---
 
