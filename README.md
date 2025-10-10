@@ -1,14 +1,14 @@
 ## Hey, I'm Kayke Emanoel 👋
 
 🎯 Software Engineering student @PUC-MG | Mechanical Technician (CEFET-MG)  
-🚀 Atuo profissionalmente na área de projetos mecânicos, mas estou em transição para o setor de tecnologia, com foco em backend, APIs REST e boas práticas de arquitetura de software.
+🚀 Atuo profissionalmente como Desenvolvedor de Software, sempre testando novas tecnologias e ferramentas.
 
 ---
 
 ### 🧠 About Me
 
 Desde 2018 me dedico à programação, com forte interesse em construir sistemas escaláveis e limpos.  
-Atualmente estudo Engenharia de Software e trabalho para migrar totalmente para a área de TI.
+Atualmente estudo Engenharia de Software e faço estágio na área de TI atuando como Desenvolvedor de Software.
 
 - 🎯 Apaixonado por engenharia de software e boas práticas (Clean Code, OOP, SOLID)
 - 🔧 Trabalhei com projetos técnicos em engenharia mecânica (AutoCAD, Excel, documentação)
@@ -18,13 +18,6 @@ Atualmente estudo Engenharia de Software e trabalho para migrar totalmente para 
 
 ### 🔥 Destaques
 
-#### 🧠 [Evolva Core (Backend)](https://github.com/Eman134/evolva-core) (Em desenvolvimento)
-> API REST multiusuário com Spring Boot, JWT, PostgreSQL e métricas de portfólio.  
-> Camadas bem definidas (controller, service, repository), DTOs e boas práticas aplicadas.
-
-#### 🎨 [Evolva Panel (Frontend)](https://github.com/Eman134/evolva-panel) (Em desenvolvimento)
-> Interface moderna com React, TailwindCSS e React Router.  
-> Dashboard, CRUD de projetos, métricas de cliques e visitas. Design clean e modular.
 
 ---
 
