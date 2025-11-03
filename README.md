@@ -34,6 +34,8 @@ Envolvimento contínuo com projetos fullstack acadêmicos e pessoais.
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend Development
@@ -55,21 +57,11 @@ Envolvimento contínuo com projetos fullstack acadêmicos e pessoais.
   <img src="https://img.shields.io/badge/Sydle-%2300AEEF.svg?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🧩 Modeling & Architecture
+### 🧩 Others
 <p align="center">
   <img src="https://img.shields.io/badge/BPMN-%23007396.svg?style=for-the-badge&logo=uml&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-%23007ACC.svg?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOLID%20Principles-%23F48024.svg?style=for-the-badge&logoColor=white"/>
-</p>
-
-### ⚙️ Other Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
-
-### 🚀 Agile & Management
-<p align="center">
   <img src="https://img.shields.io/badge/Scrum-%2300BFFF.svg?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kanban-%230079C1.svg?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
