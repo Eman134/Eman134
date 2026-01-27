@@ -14,6 +14,12 @@ Envolvimento contínuo com projetos fullstack acadêmicos e pessoais.
 
 ---
 
+## Projects
+
+[EldRaces](github.com/Eman134?tab=repositories) - Mod que possibilita escolher raças jogáveis no jogo Hytale
+
+---
+
 ## Skills & Proficiency
 | Área | Nível |
 |------|--------|
